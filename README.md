@@ -1,4 +1,4 @@
-# Hi, I'm anonimonotfound62! 👋
+# Hi, I'm anonimonotfound62! 
 
 I'm taking my first steps into the world of programming.
 
